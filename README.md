@@ -34,8 +34,11 @@ project/
 │ ├── models.py
 
 │ ├── views.py
+
 │ ├── templates/
+
 │ ├── services/
+
 │ └── tests.py
 
 ## Installation
