@@ -22,11 +22,17 @@ This project is designed as a practical implementation of a school system where 
 
 ## Project Structure
 project/
+
 │
+
 ├── manage.py
+
 ├── db.sqlite3
+
 ├── school/
+
 │ ├── models.py
+
 │ ├── views.py
 │ ├── templates/
 │ ├── services/
